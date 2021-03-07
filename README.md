@@ -1,0 +1,2 @@
+# BankAccountManagement
+Write a program and perform the following steps: Create a class AccountManagement containing following methods: insertData() to insert account details of customers, displayData() to display account details depositAmount() to deposit amount of customer withdrawAmount() to withdraw amount accountBalance() to checkbalance in customer's account. The methods should execute as per their specification.
